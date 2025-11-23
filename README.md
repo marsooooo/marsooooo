@@ -1,13 +1,3 @@
-# Hi 👋, I'm Marceau
-
-- 🔭 I'm currently working on **a social network from scratch**
-
-- 🌱 I'm currently learning **TypeScript, PostgreSQL, React**
-
-- 📫 How to reach me **marso.tison@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://marceau-tison.com](https://marceau-tison.com)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/marsooooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marsooooo" height="30" width="40" /></a>
