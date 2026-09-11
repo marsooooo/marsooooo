@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working as a freelance developper while studying<br>I’m looking for an intership for 2026<br>I’m currently learning Typescript and NextJS
+Currently in a master's degree in digital management on a work-study program.
 <p align="left">
 <a href="https://github.com/marsooooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="marsooooo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marceau-tison" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marceau-tison" height="30" width="40" /></a>
